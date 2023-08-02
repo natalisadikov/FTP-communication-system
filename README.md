@@ -39,16 +39,13 @@ We welcome contributions to improve the project. If you'd like to contribute, pl
 4. Push the changes to your fork: `git push origin feature/your-feature-name`.
 5. Create a pull request, and our team will review your changes.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any questions or support, feel free to reach out:
 
-- Email: your.natalisadikov2318@gmail.com
-- GitHub: [YourGitHubUsername]([https://github.com/natalisadikov])
+- Email: natalisadikov2318@gmail.com
+- GitHub https://github.com/natalisadikov
 
 ---
 This README provides an overview of the project and includes information on how to install, use, contribute, and contact the developers. Feel free to modify it as needed to match your project's specific details.
