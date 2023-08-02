@@ -47,8 +47,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 For any questions or support, feel free to reach out:
 
-- Email: your.email@example.com
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- Email: your.natalisadikov2318@gmail.com
+- GitHub: [YourGitHubUsername]([https://github.com/natalisadikov])
 
 ---
 This README provides an overview of the project and includes information on how to install, use, contribute, and contact the developers. Feel free to modify it as needed to match your project's specific details.
