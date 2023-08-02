@@ -8,8 +8,6 @@ This project focuses on server-client communication the client and DHCP, DNS, an
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
